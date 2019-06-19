@@ -1,6 +1,6 @@
 # Batch srt to vtt converter
 
-A PHP cli script that batch converts all .srt files to .vtt files in a directory. Source and destination directories can be specified.
+A PHP **command line** script that batch converts all SubRip (.srt) files to WebVTT (.vtt) files in a directory. Source and destination directories can be specified.
 
 ## Description
 
